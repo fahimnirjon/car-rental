@@ -1,2 +1,2 @@
 # car Rental
-{Live Link >>>>>>> https://car-rental-00.netlify.app/}
+Live Link >>>>>>> https://car-rental-00.netlify.app/
