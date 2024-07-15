@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect } from "react";
 import carPng from "../../assets/car.png";
 import yellowCar from "../../assets/banner-car.png";
 import AOS from "aos";
